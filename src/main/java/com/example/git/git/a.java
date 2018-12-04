@@ -6,4 +6,5 @@ public class a {
     private String sex;
     private String email1;
 
+    private String a2;
 }
