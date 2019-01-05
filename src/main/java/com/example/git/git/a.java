@@ -8,7 +8,7 @@ public class a {
 
     private String a1;
 
-    private String a2;
+    private String a21;
 
 
 }
